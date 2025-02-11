@@ -29,10 +29,10 @@
 
 ## 📌 Projets Réalisés  
 
-### 🎨 [Portfolio Personnel]([https://github.com/ton-repo](https://github.com/Simon69500/Portfolio-Simon))  
+### 🎨 [Portfolio Personnel](https://github.com/Simon69500/Portfolio-Simon). 
 Un site **responsive en React.js** où je présente mes compétences et projets.  
 
-### 📅 [Calendrier & Agenda JDR]([https://github.com/ton-repo](https://github.com/Simon69500/Calendrier-Agenda-JDR)) *(En cours 🚧)*  
+### 📅 [Calendrier & Agenda JDR]([https://github.com/ton-repo](https://github.com/Simon69500/Calendrier-Agenda-JDR) *(En cours 🚧)*  
 Application Angular pour gérer des **campagnes de jeux de rôle** avec calendrier interactif.  
 
 ### 📰 [Blog Tech] *(En cours 🚧)*  
