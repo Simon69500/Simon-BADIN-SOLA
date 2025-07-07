@@ -1,6 +1,6 @@
 # 👋 Hello, moi c'est Simon Badin !  
 
-💻 **Développeur Full Stack en formation** | Recherche **Alternance - Concepteur Développeur d'Applications**  
+💻 **Développeur Full Stack en formation** | Recherche **Stage - 2 mois**  
 
 🚀 Passionné par le développement web, j'ai commencé avec une formation intensive en **Front-end** et j'évolue maintenant vers le **Full Stack**. Mon objectif ? Concevoir et développer des applications modernes, performantes et bien pensées.  
 
@@ -17,13 +17,11 @@
 ### ⚙️ **Back-end**  
 - **Serveur** : Node.js, Express.js  
 - **Base de données** : MongoDB  
-- **CMS & API** : Strapi  
+- **CMS & API** : WorldPress, SQL , NoSQl
 
 ### ☁️ **Outils & Technologies**  
-- **Versionning & Déploiement** : GitHub, Netlify  
-- **Gestion des assets** : Cloudinary  
-- **No-Code / Low-Code** : Retool  
-- **Paiement en ligne** : Stripe  
+- **Versionning & Déploiement** : GitHub
+
 
 ---
 
