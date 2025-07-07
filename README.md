@@ -43,8 +43,7 @@ Application Angular pour gérer des **campagnes de jeux de rôle** avec calendri
 ## 🎯 Ce que je recherche  
 
 🔎 **Alternance en tant que Concepteur Développeur d'Applications**  
-📅 **Démarrage** : 28 Aril 2025 -> Formation Développeur Fullstack
-                   Mi-Juillet 2025 -> Formation Concepteur Développeur d'Application   
+📅 **Démarrage** : 25 Mars 2025 -> Formation Développeur Fullstack
 📍 **Localisation** : [Région Lyonnaise]  
 
 📫 **Me contacter** :  
